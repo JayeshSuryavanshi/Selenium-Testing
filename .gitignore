@@ -4,10 +4,7 @@
 # Log files
 *.log
 
-# Package files produced by the build (project dependency archives are kept intentionally)
-# Note: Selenium_Libraries.zip is committed on purpose as a runtime dependency.
-
-# Maven / Gradle build directories (if a build tool is later introduced)
+# Maven / Gradle build directories
 target/
 build/
 .gradle/
