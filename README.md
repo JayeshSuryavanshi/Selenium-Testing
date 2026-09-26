@@ -17,7 +17,7 @@ It demonstrates the basics of driving a browser with Selenium WebDriver: creatin
 ## Prerequisites
 
 - **Java JDK 11+**
-- **Maven** (dependencies are declared in [`pom.xml`](pom.xml) — no libraries are vendored in the repo)
+- **Maven** (dependencies are declared in [`pom.xml`](pom.xml); no libraries are vendored in the repo)
 - **Google Chrome** installed
 
 > No `chromedriver` binary is required. Selenium 4.6+ ships **Selenium Manager**, which downloads a ChromeDriver matching your installed Chrome automatically.

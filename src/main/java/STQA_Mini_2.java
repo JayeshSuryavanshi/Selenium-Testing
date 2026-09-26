@@ -1,5 +1,5 @@
 /*
- * Selenium Automated Testing — STQA mini-project.
+ * Selenium Automated Testing: STQA mini-project.
  * Opens Chrome and walks through a sequence of pages.
  *
  * Requires Selenium 4.6+ (see pom.xml): Selenium Manager resolves a matching

@@ -17,7 +17,7 @@
 
   <dependencies>
     <!-- Selenium 4.6+ ships Selenium Manager, which auto-downloads a matching
-         ChromeDriver at runtime — no vendored chromedriver.exe needed. -->
+         ChromeDriver at runtime: no vendored chromedriver.exe needed. -->
     <dependency>
       <groupId>org.seleniumhq.selenium</groupId>
       <artifactId>selenium-java</artifactId>
